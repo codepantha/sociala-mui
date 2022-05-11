@@ -16,7 +16,6 @@ import {
   Mail,
   Notifications
 } from '@mui/icons-material';
-import { borderRadius } from '@mui/system';
 
 const StyledToolbar = styled(Toolbar)({
   display: 'flex',
